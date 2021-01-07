@@ -1,3 +1,4 @@
+/*Copyright (c) makoto nanzai. All Rights Reserved.*/
 #!/usr/bin/env python2
 
 import rospy
